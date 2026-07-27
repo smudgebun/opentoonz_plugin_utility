@@ -1,6 +1,9 @@
 OpenToonz Plugin Utility
 ============
 
+> [!NOTE]
+> This repo is not endorsed by or affiliated with [@manongjohn](https://github.com/manongjohn)
+
 [日本語](./doc/README_ja.md)
 
 You can develop raster effects worked on FX Schematic using COM-like low-level interfaces.
